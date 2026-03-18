@@ -1,4 +1,1 @@
 "# NeRF" 
-"# NeRF" 
-"# SRCNN" 
-"# SRCNN" 
